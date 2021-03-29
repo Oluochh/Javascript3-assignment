@@ -13,5 +13,5 @@ class Kiosk {
     }
     }
     var kiosk = new Kiosk(['Mango']);
-    kiosk.setFruit("orange")
+    kiosk.setFruit("apples")
     console.log(kiosk.getFruits());
